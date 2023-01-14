@@ -8,8 +8,8 @@
 
 /*===== Colores =====*/
 :root {
-  --first-color: #4070f4;
-  --second-color: #0e2431;
+  --first-color:rgb(100,75,110);
+  --second-color:rgb(150,125,200) ;
   --third-color: #ffffff;
 }
 
