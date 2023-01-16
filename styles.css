@@ -616,3 +616,10 @@ img.man-icons {
     right: 10%;
   }
 }
+
+#stat{
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
