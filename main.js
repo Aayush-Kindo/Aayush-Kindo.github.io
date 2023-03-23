@@ -101,4 +101,11 @@ const showMenu = (toggleId, navId) => {
   
   
     window.addEventListener("load" , typewriter);
+
+
+    GitHubCalendar(".calendar", "aayush-kindo", {
+      responsive: true,
+      global_stats: false,
+      tooltips: true,
+    });
   
