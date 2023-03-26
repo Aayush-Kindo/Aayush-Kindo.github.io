@@ -109,12 +109,12 @@ const showMenu = (toggleId, navId) => {
       tooltips: true,
     });
   
-    let getResume=document.getElementById("openResume");
+    let getResume=document.querySelector(".openResume");
     getResume.addEventListener("click",()=>{
       window.open("https://drive.google.com/file/d/1gQdvhYyaTMsq7Uc-6h2k0Q79eiVmT0Tk/view","_blank");
     })
 
-    let getResume2=document.getElementById("openResume2");
+    let getResume2=document.querySelector(".openResume2");
     getResume2.addEventListener("click",()=>{
       window.open("https://drive.google.com/file/d/1gQdvhYyaTMsq7Uc-6h2k0Q79eiVmT0Tk/view","_blank");
     })
